@@ -19,5 +19,10 @@
   "devDependencies": {
     "@types/node": "^18.11.17",
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@slack/webhook": "^6.1.0",
+    "@types/aws-lambda": "^8.10.109",
+    "prettier": "^2.8.1"
   }
 }
